@@ -32,7 +32,7 @@ dependencies {
     compileOnly("com.comphenix.protocol:ProtocolLib:5.1.0")
 //    compileOnly("com.github.dmulloy2:ProtocolLib:master-SNAPSHOT")
     compileOnly("org.geysermc.floodgate:api:2.2.2-SNAPSHOT")
-    compileOnly("LibsDisguises:LibsDisguises:10.0.32") {
+    compileOnly("LibsDisguises:LibsDisguises:10.0.44") {
         exclude("org.spigotmc")
     }
 
