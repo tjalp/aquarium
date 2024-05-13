@@ -20,7 +20,7 @@ dependencies {
     implementation("cloud.commandframework:cloud-paper:1.8.2")
 //    implementation("org.litote.kmongo:kmongo-async:4.8.0")
     implementation("org.litote.kmongo:kmongo-coroutine:4.8.0")
-    implementation("org.ocpsoft.prettytime:prettytime:5.0.6.Final")
+    implementation("org.ocpsoft.prettytime:prettytime:5.0.8.Final")
     implementation("org.incendo.interfaces:interfaces-paper:1.0.0-SNAPSHOT")
     implementation("org.incendo.interfaces:interfaces-kotlin:1.0.0-SNAPSHOT")
 //    implementation("org.incendo.interfaces:interfaces-next:1.0.0-SNAPSHOT")
