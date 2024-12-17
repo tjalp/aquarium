@@ -16,7 +16,7 @@ dependencies {
 
     implementation(kotlin("stdlib"))
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
-    implementation("cloud.commandframework:cloud-annotations:1.8.2")
+    implementation("cloud.commandframework:cloud-annotations:1.8.4")
     implementation("cloud.commandframework:cloud-paper:1.8.2")
 //    implementation("org.litote.kmongo:kmongo-async:4.8.0")
     implementation("org.litote.kmongo:kmongo-coroutine:4.8.0")
@@ -36,7 +36,7 @@ dependencies {
         exclude("org.spigotmc")
     }
 
-    kapt("cloud.commandframework:cloud-annotations:1.8.2")
+    kapt("cloud.commandframework:cloud-annotations:1.8.4")
 }
 
 tasks {
