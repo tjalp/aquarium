@@ -5,7 +5,7 @@ plugins {
     kotlin("kapt") version kotlinVersion
     id("io.papermc.paperweight.userdev") version "1.5.11" apply false
     id("xyz.jpenilla.run-paper") version "2.2.2"
-    id("com.github.johnrengelman.shadow") version "7.1.2"
+    id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
 base {
